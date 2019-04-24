@@ -85,7 +85,7 @@ namespace QLBHTB
 					SqlCommand cmd = con.cnn.CreateCommand();
 					cmd.CommandType = CommandType.StoredProcedure;
 					cmd.CommandText = "insert_HH";
-					cmd.Parameters.AddWithValue("@mahh", txtmahh.Text);
+					//cmd.Parameters.AddWithValue("@mahh", txtmahh.Text);
 					cmd.Parameters.AddWithValue("@tenhh", txttenhh.Text);
 					cmd.Parameters.AddWithValue("@dacdiem", txtdacdiem.Text);
 					cmd.Parameters.AddWithValue("@dactinh", txtdactinh.Text);
@@ -93,9 +93,9 @@ namespace QLBHTB
 					cmd.ExecuteNonQuery();
 					hanghoa_Load(sender, e);
 				}
-				catch (Exception)
+				catch (Exception x)
 				{
-					MessageBox.Show("Thêm không thành công");
+					MessageBox.Show("Thêm không thành công" + x.Message);
 				}
 			}
 			else
