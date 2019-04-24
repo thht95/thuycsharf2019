@@ -1,0 +1,74 @@
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.csprojAssemblyReference.cache
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.nhomhang.resources
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.Properties.Resources.resources
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.csproj.GenerateResource.cache
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.csproj.CoreCompileInputs.cache
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\bin\Debug\QLBHTB.exe.config
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\bin\Debug\QLBHTB.exe
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\bin\Debug\QLBHTB.pdb
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.exe
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.pdb
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.hangban.resources
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.hanghoa.resources
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.nhatkibaohanh.resources
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.phieunhan.resources
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.thietbibaohanh.resources
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.hdbanhang.resources
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.trangchu.resources
+C:\Users\Thuy\Desktop\c#\BTLC#ct4\QLBHTB\QLBHTB\obj\Debug\QLBHTB.rp_gia.resources
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\bin\Debug\QLBHTB.exe.config
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\bin\Debug\QLBHTB.exe
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\bin\Debug\QLBHTB.pdb
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.csprojAssemblyReference.cache
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.HangBan.resources
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.hanghoa.resources
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.hdbanhang.resources
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.nhatkibaohanh.resources
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.nhomhang.resources
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.phieunhan.resources
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.Properties.Resources.resources
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.rp_gia.resources
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.thietbibaohanh.resources
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.trangchu.resources
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.csproj.GenerateResource.cache
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.csproj.CoreCompileInputs.cache
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.exe
+C:\Users\TrangThuy\Documents\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.pdb
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\QLBHTB.exe.config
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\QLBHTB.exe
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\QLBHTB.pdb
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.csprojAssemblyReference.cache
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.HangBan.resources
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.hanghoa.resources
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.hdbanhang.resources
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.nhatkibaohanh.resources
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.nhomhang.resources
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.phieunhan.resources
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.Properties.Resources.resources
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.thietbibaohanh.resources
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.trangchu.resources
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.csproj.GenerateResource.cache
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.csproj.CoreCompileInputs.cache
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.exe
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.pdb
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\FlashControlV71.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\bin\Debug\stdole.dll
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.FR_hangban.resources
+C:\Users\TrangThuy\Desktop\btl qltb\QLBHTB\QLBHTB\obj\Debug\QLBHTB.csproj.CopyComplete
