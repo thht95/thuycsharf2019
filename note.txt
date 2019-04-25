@@ -7,3 +7,10 @@ rồi chuột phải
 chọn git bash here
 gõ
 git pull origin master
+
+ALTER  proc [dbo].[select_NH]
+as
+select nhomhang.MaNH, TenNH ,count(tenHH) as [Số lượng hàng] 
+from [dbo].[nhomhang], hanghoa
+where nhomhang.maNH = hanghoa.manh
+group by nhomhang.maNH, TenNH

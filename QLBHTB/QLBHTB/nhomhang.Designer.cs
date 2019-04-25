@@ -79,7 +79,7 @@
             this.tenNH});
             this.dgvnhomhang.Location = new System.Drawing.Point(34, 223);
             this.dgvnhomhang.Name = "dgvnhomhang";
-            this.dgvnhomhang.Size = new System.Drawing.Size(238, 150);
+            this.dgvnhomhang.Size = new System.Drawing.Size(417, 139);
             this.dgvnhomhang.TabIndex = 3;
             this.dgvnhomhang.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvnhomhang_CellClick);
             // 
