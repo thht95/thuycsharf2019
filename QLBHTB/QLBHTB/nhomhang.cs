@@ -67,45 +67,65 @@ namespace QLBHTB
             txtten.Clear();
         }
 
+        private bool checkData()
+        {
+            if (string.IsNullOrEmpty(txtten.Text))
+                return false;
+            return true;
+        }
+
         private void btnluu_Click(object sender, EventArgs e)
         {
-            if (flag == 0)
+
+            if (checkData())
             {
-                try
+                if (flag == 0)
                 {
-                    con.connection();
-                    SqlCommand cmd = con.cnn.CreateCommand();
-                    cmd.CommandType = CommandType.StoredProcedure;
-                    cmd.CommandText = "insert_NH";
-                    cmd.Parameters.AddWithValue("@ma", txtma.Text);
-                    cmd.Parameters.AddWithValue("@ten", txtten.Text);
-            
-                    cmd.ExecuteNonQuery();
-                    nhomhang_Load(sender, e);
+                    try
+                    {
+                        con.connection();
+                        SqlCommand cmd = con.cnn.CreateCommand();
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.CommandText = "insert_NH";
+                        cmd.Parameters.AddWithValue("@ma", txtma.Text);
+                        cmd.Parameters.AddWithValue("@ten", txtten.Text);
+
+                        cmd.ExecuteNonQuery();
+                        nhomhang_Load(sender, e);
+                        MessageBox.Show("Dữ liệu hợp lệ");
+
+
+                    }
+                    catch (Exception)
+                    {
+                        MessageBox.Show("Thêm không thành công");
+                    }
                 }
-                catch (Exception)
+                else
                 {
-                    MessageBox.Show("Thêm không thành công");
+                    try
+                    {
+                        con.connection();
+                        SqlCommand cmd = con.cnn.CreateCommand();
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.CommandText = "update_NH";
+                        cmd.Parameters.AddWithValue("@ma", txtma.Text);
+                        cmd.Parameters.AddWithValue("@ten", txtten.Text);
+
+                        MessageBox.Show("Dữ liệu hợp lệ");
+
+                        cmd.ExecuteNonQuery();
+                        nhomhang_Load(sender, e);
+                    }
+                    catch (Exception)
+                    {
+                        MessageBox.Show("Sửa không thành công");
+                    }
                 }
             }
             else
             {
-                try
-                {
-                    con.connection();
-                    SqlCommand cmd = con.cnn.CreateCommand();
-                    cmd.CommandType = CommandType.StoredProcedure;
-                    cmd.CommandText = "update_NH";
-                    cmd.Parameters.AddWithValue("@ma", txtma.Text);
-                    cmd.Parameters.AddWithValue("@ten", txtten.Text);
-
-                    cmd.ExecuteNonQuery();
-                    nhomhang_Load(sender, e);
-                }
-                catch (Exception)
-                {
-                    MessageBox.Show("Sửa không thành công");
-                }
+                MessageBox.Show("Dữ liệu không hợp lệ");
             }
         }
 
